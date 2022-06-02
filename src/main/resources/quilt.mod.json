@@ -28,7 +28,8 @@
 			{
 				"id": "minecraft",
 				"versions": ">=1.18.2"
-			}
+			},
+			{"id":  "tesseractapi"}
 		]
 	},
 	"mixin": "technotriage.mixins.json"
